@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+I want to eat watermelon
+
+watermelon is my favorate fruit
+
+i like icecream too
+now i eat icecream
